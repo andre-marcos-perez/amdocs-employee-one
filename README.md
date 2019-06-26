@@ -1,4 +1,4 @@
-# amdocs-employee-one
+# Amdocs Employee One
 Repository for 2019 Digital Hackathon @ Amdocs
 
 ## Team
